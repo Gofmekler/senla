@@ -10,9 +10,9 @@ public final class AtmMessage {
     public static final String READING_FAIL = "Reading file is failed ";
     public static final String MESSAGE = """
             Enter operation type, please:\s
-             1 - INFO.\s
-             2 - DEPOSIT.
-             3 - WITHDRAW.
+             1 - INFORMATION.\s
+             2 - DEPOSIT TO ACCOUNT.
+             3 - WITHDRAW FROM ACCOUNT.
              4 - EXIT.""";
     public static final String QUESTION_EXIT_MESSAGE = """
             Do you want to exit o continue?\s
